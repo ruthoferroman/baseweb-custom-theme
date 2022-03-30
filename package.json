@@ -1,0 +1,35 @@
+{
+  "name": "custom-theme-header-height-sample",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@types/baseui": "8.0.0",
+    "@types/styletron-engine-atomic": "1.1.0",
+    "@types/styletron-react": "5.0.2",
+    "baseui": "9.104.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.0",
+    "styletron-engine-atomic": "1.4.6",
+    "styletron-react": "5.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.9.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
